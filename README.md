@@ -7,7 +7,7 @@ Use A/D to move left and right, and avoid the people trying to crush you. It's q
 There seems to be an issue with the MacOS releases, which cause the operating system to refuse to open the .app file.
 Luckily you can use a single command in the terminal to fix this!
 
-Simple run:
+Simply run:
 ```
 xattr -d com.apple.quarantine <path_to_app_file>
 ```
