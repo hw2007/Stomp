@@ -3,6 +3,8 @@ A game where you can experience what it's like to be that bug you crushed!
 
 Use A/D to move left and right, and avoid the people trying to crush you. It's quite simple, really.
 
+<img width="900" alt="A screenshot of the game" src="https://github.com/hw2007/Stomp/assets/60082961/d2593929-ee9b-43b2-9fd5-a7913730629f">
+
 # Running on MacOS
 There seems to be an issue with the MacOS releases, which cause the operating system to refuse to open the .app file.
 Luckily you can use a single command in the terminal to fix this!
